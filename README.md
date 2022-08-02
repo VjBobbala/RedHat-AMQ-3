@@ -1,0 +1,1 @@
+# RedHat-AMQ-3
